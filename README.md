@@ -1,6 +1,5 @@
 Hi, I am Surjeet.
-My interest lies in Artificial Intelligence and Material Informatics. 
-I’m looking to collaborate on projects related to Text Mining, Natural Language Processing and predictive modelling using ML and DL related to materials science. 
+My interest lies in Artificial Intelligence for Science.  
 You can reach me at surjeetkhurana or email me at surjeetkhurana9@gmail.com
 
 <!---
