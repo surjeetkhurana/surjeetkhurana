@@ -1,5 +1,6 @@
 Hi, I am Surjeet.
-My interest lies in Artificial Intelligence for Science.  
+My interest lies in Artificial Intelligence for Mateiral Science, Chemisrty and Robotics.
+Interested in Autonomous Laboratories and using AI for predicting new materials. 
 You can reach me at surjeetkhurana or email me at surjeetkhurana9@gmail.com
 
 <!---
